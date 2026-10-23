@@ -1,3 +1,9 @@
+# Week 7 Lab
+
+This is the repository for Week 7 Lab: Bet
+
+Demo:
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
