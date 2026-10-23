@@ -2,7 +2,7 @@
 
 This is the repository for Week 7 Lab: Bet
 
-Demo:
+Demo: https://www.loom.com/share/05b5cb99d34040139ffb5efc4961c33e
 
 # React + Vite
 
